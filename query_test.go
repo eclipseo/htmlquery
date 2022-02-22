@@ -39,8 +39,7 @@ const htmlSample = `<!DOCTYPE html><html lang="en-US">
 <footer>Copyright &copy; W3Schools.com</footer>
 </div>
 </body>
-</html>
-`
+</html>`
 
 var testDoc = loadHTML(htmlSample)
 
